@@ -1,4 +1,4 @@
-# TikzPictures
+# Deep Learning-Enabled One-Bit DoA Estimation
 
 [![Build Status](https://github.com/JuliaTeX/TikzPictures.jl/workflows/CI/badge.svg)](https://github.com/JuliaTeX/TikzPictures.jl/actions)
 [![codecov](https://codecov.io/gh/JuliaTeX/TikzPictures.jl/branch/master/graph/badge.svg?token=nCBJc77iDE)](https://codecov.io/gh/JuliaTeX/TikzPictures.jl)
